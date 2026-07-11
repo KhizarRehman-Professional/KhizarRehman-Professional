@@ -70,13 +70,18 @@ Artificial Intelligence student combining OOP logic with real-world software dev
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
-<h3 align="center">✍️ Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</p>
+## 🚀 Featured Project
+
+<a href="https://github.com/KhizarRehman-Professional/word-replacer-iii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=word-replacer-iii&theme=dark" />
+</a>
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </p>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
