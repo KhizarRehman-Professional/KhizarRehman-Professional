@@ -70,10 +70,12 @@ Artificial Intelligence student combining OOP logic with real-world software dev
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
-## 🚀 Featured Project
-<a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Extension-SourceCode&theme=dark" />
-</a>
+<h2 align="center">🚀 Featured Project</h2>
+<p align="center">
+  <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Extension-SourceCode&theme=dark" alt="Word Replacer III" />
+  </a>
+</p>
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
@@ -84,6 +86,6 @@ Artificial Intelligence student combining OOP logic with real-world software dev
 </p>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=KhizarRehman-Professional&icon=0&color=1" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=KhizarRehman-Professional&icon=0&color=blue" alt="Profile Views"/>
   </a>
 </p>
