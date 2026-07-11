@@ -6,7 +6,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=A%20passionate%20AI%20Student%20and%20Developer%20from%20Pakistan.;C%2B%2B%20%26%20Python%20Developer%20%7C%20Certified%20Peer%20Tutor%20%7C%20Creator%20of%20Word%20Replacer%20III" alt="Typing headlines" />
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Software%20Developer%20%26%20AI%20Enthusiast;Turning%20complex%20algorithms%20into%20clean%2C%20interactive%20applications" alt="Typing headlines" />
 </p>
+
+
 <h2 align="center">💫 About Me</h2>
 Artificial Intelligence student combining OOP logic with real-world software development. I build interactive tools, maintain custom web extensions, and enjoy solving complex backend challenges.<br><br>
 
