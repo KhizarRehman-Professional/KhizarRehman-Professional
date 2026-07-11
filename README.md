@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KhizarRehman-Professional">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dd9e56&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Khizar%20Rehman!" alt="Hello! I&#39;m Khizar Rehman!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dd5691&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Khizar%20Rehman!" alt="Hello! I&#39;m Khizar Rehman!" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Artificial Intelligence student combining OOP logic with real-world software dev
   <a href="https://linkedin.com/in/khizarrehman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:khizarrehman.professional@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 <h4 align="center">🖥️ Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
