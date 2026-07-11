@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hey,+I'm+Khizar+Rehman!+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+DSA+Enthusiast+%F0%9F%A7%A0;Browser+Extension+Builder+%F0%9F%9A%80;Certified+Peer+Tutor+%F0%9F%8E%93&animation=rainbow&font=code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey,+I'm+Khizar+Rehman!+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+DSA+Enthusiast+%F0%9F%A7%A0;Browser+Extension+Builder+%F0%9F%9A%80;Certified+Peer+Tutor+%F0%9F%8E%93" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Word%20Replacer%20III-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -18,7 +18,7 @@
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Khizar%20Rehman&fontSize=30&fontColor=fff&animation=twinkling" />
 🧑‍💻 $ whoami
-yaml
+<pre>
 ┌────────────────────────────────────────────────────────────┐
 │  $ whoami                                                  │
 │  Khizar Rehman — Software Developer                        │
@@ -49,14 +49,16 @@ yaml
 │  $ cat fun_fact.txt                                        │
 │  🎓 Certified university Peer Tutor — PTE Academic score 67 │
 └────────────────────────────────────────────────────────────┘
+</pre>
 🛠️ $ tech_stack.json
-JSON
+<pre>
 {
   "languages":   ["C++", "C", "Python", "JavaScript"],
   "web":         ["HTML5", "CSS3"],
   "data_tools":  ["MySQL", "NumPy", "Pandas", "Matplotlib"],
   "platforms":   ["Git", "GitHub"]
 }
+</pre>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql,git,github&theme=dark&perline=9" />
 </p>
@@ -79,29 +81,27 @@ JSON
 </p>
 📊 $ github_analytics.sh
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&v=1" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-⚠️ Note: If a card shows broken, it's likely recovering from a Vercel-wide incident on Jul 10 that paused free-tier hobby projects.
-Fallback: github-readme-stats.vercel.app (same params, swap the domain).
 📌 $ ls ./featured-projects/
 <p align="center">
   <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true&v=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true&v=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true&v=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true&v=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true" />
   </a>
 </p>
 📈 $ git log --graph --stat
