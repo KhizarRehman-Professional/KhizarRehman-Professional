@@ -66,25 +66,6 @@ Artificial Intelligence student combining OOP logic with real-world software dev
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-<h2 align="center">🚀 Featured Project</h2>
-<p align="center">
-  <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode">
-    <img src="https://opengraph.githubassets.com/1/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode" alt="Word Replacer III" width="400" />
-  </a>
-  <br><br>
-  <b>Word Replacer III</b> — Browser extension for automatic word replacement<br>
-  <a href="https://chromewebstore.google.com/detail/kjjdcgbjckkiammdbmcmhopgpnakjnga">Chrome</a> • 
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/word-replacer-iii/">Firefox</a> • 
-  <a href="https://microsoftedge.microsoft.com/addons/detail/word-replacer-iii/bmcaddcgipdfeaiiijcolediagabipjb">Edge</a>
-</p>
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
 <h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
