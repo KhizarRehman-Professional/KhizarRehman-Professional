@@ -49,9 +49,10 @@ Artificial Intelligence student combining OOP logic with real-world software dev
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.shion.dev/api?username=KhizarRehman-Professional&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=dark&hide_border=false" alt="GitHub Streak"/><br/></p>
+  <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhizarRehman-Professional&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 <h3 align="center">🐍 Contribution Snake</h3>
