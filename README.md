@@ -1,18 +1,21 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khizar+%F0%9F%91%8B;C%2B%2B+%26+Python+Developer;Web+Extension+Builder;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</div>
-<h2 align="center">💫 About Me</h2>
 <p align="center">
-🔭 I’m currently working on: <b>Word Replacer III</b> (Custom Browser Extension migrating to Manifest V3)<br>
-🌱 I’m currently learning: <b>Advanced Data Structures and Algorithms (DSA)</b> and AI-driven development<br>
-👯 I’m looking to collaborate on: <b>Open-source C++ or Python projects</b><br>
-🤝 I’m looking for help with: <b>Advanced UI/UX frontend logic</b><br>
-💬 Ask me about: <b>C++, Python, Web Extensions, and Object-Oriented Programming</b><br>
-📫 How to reach me: <b>khizarrehman.professional@gmail.com</b><br>
-⚡ Fun fact: <b>I am a certified university Peer Tutor and achieved a 67 on my PTE Academic exam!</b>
+  <a href="https://github.com/KhizarRehman-Professional">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Khizar%20Rehman!" alt="Hello! I&#39;m Khizar Rehman!" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=A%20passionate%20AI%20Student%20and%20Developer%20from%20Pakistan.;C%2B%2B%20%26%20Python%20Developer%20%7C%20Certified%20Peer%20Tutor%20%7C%20Creator%20of%20Word%20Replacer%20III" alt="Typing headlines" />
+</p>
+<h2 align="center">💫 About Me</h2>
+Artificial Intelligence student combining OOP logic with real-world software development. I build interactive tools, maintain custom web extensions, and enjoy solving complex backend challenges.
+
+🔭 &nbsp;I'm currently working on **Word Replacer III - Browser Extension**  
+🌱 &nbsp;I'm currently learning **Advanced Data Structures and Algorithms (DSA)**  
+👯 &nbsp;I'm looking to collaborate on **Open-Source Python or C++ logic projects**  
+🤔 &nbsp;I'm looking for help with **Advanced Browser Extension Architecture**  
+💬 &nbsp;Ask me about **C++, Python, OOP, and Frontend Logic**  
+⚡ &nbsp;Fun fact: **I am a certified university Peer Tutor for C++ and hold a B2+ English proficiency score (PTE Score - 67)!**
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a href="https://instagram.com/khizarrehman.exe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
