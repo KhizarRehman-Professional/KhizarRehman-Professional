@@ -1,0 +1,11 @@
+# Mark jQuery as vendor code so it's excluded from language stats
+jquery-2.1.4.min.js linguist-vendored
+
+# Ensure JavaScript files are counted
+*.js linguist-language=JavaScript
+
+# Ensure HTML files are counted correctly
+*.html linguist-language=HTML
+
+# Ensure CSS files are counted
+*.css linguist-language=CSS
