@@ -292,13 +292,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 
 </div>
-
----
-
-<!-- Setup Instructions -->
-<details>
-<summary><h3>🛠️ Setup Instructions (Click to Expand)</h3></summary>
-
-#### 1. Snake Animation Setup (one-time, ~2 minutes)
-
-In your `KhizarRehman-Professional` repo, create the file:
