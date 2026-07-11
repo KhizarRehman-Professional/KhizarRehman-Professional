@@ -1,141 +1,144 @@
 <div align="center">
-<!-- Animated Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Khizar+Rehman" alt="Khizar Rehman" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+DSA+Enthusiast;Building+Word+Replacer+III;Migrating+to+Manifest+V3;Certified+Peer+Tutor" alt="Typing Animation" />
-
-
-<img src="https://img.shields.io/badge/Software%20Developer-58A6FF?style=for-the-badge&labelColor=161B22" height="30"/> 
-<img src="https://img.shields.io/badge/AI%20%26%20DSA%20Enthusiast-3FB950?style=for-the-badge&labelColor=161B22" height="30"/>
-
-<img src="https://img.shields.io/badge/🚀_Building_Word_Replacer_III-58A6FF?style=flat-square&labelColor=161B22" height="28"/>
-<img src="https://img.shields.io/badge/⚙️_Migrating_to_Manifest_V3-3FB950?style=flat-square&labelColor=161B22" height="28"/>
-<img src="https://img.shields.io/badge/🧠_Learning_Advanced_DSA-BC8CFF?style=flat-square&labelColor=161B22" height="28"/>
-<img src="https://img.shields.io/badge/🎓_Certified_Peer_Tutor-F0883E?style=flat-square&labelColor=161B22" height="28"/>
+  <a href="https://github.com/KhizarRehman-Professional">
+    <img src="https://avatars.githubusercontent.com/u/187503928?v=4" width="150" height="150" />
+  </a>
 </div>
-
-🧭 <img src="https://img.shields.io/badge/About%20Me-58A6FF?style=flat-square&logoColor=white" height="26"/>
-<table>
-<tr>
-<td width="40">🔭</td>
-<td><b>Currently working on</b></td>
-<td>Word Replacer III — Custom Browser Extension (MV3 migration)</td>
-</tr>
-<tr>
-<td>🌱</td>
-<td><b>Currently learning</b></td>
-<td>Advanced Data Structures &amp; Algorithms · AI-driven Development</td>
-</tr>
-<tr>
-<td>👯</td>
-<td><b>Looking to collaborate on</b></td>
-<td>Open-source C++ / Python projects</td>
-</tr>
-<tr>
-<td>🤝</td>
-<td><b>Looking for help with</b></td>
-<td>Advanced UI/UX frontend logic</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><b>Ask me about</b></td>
-<td>C++ · Python · Web Extensions · OOP</td>
-</tr>
-<tr>
-<td>⚡</td>
-<td><b>Fun fact</b></td>
-<td>Certified university Peer Tutor, PTE Academic score: 67</td>
-</tr>
-</table>
-
-🌐 <img src="https://img.shields.io/badge/Connect%20With%20Me-3FB950?style=flat-square&logoColor=white" height="26"/>
+<h1 align="center">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hey,+I'm+Khizar+Rehman!+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+DSA+Enthusiast+%F0%9F%A7%A0;Browser+Extension+Builder+%F0%9F%9A%80;Certified+Peer+Tutor+%F0%9F%8E%93&animation=rainbow&font=code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&height=50" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Word%20Replacer%20III-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-MV3%20Migration-4ECDC4?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Coding...-2ECC71?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhizarRehman-Professional&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=161B22" />
+  <img src="https://img.shields.io/github/followers/KhizarRehman-Professional?style=for-the-badge&color=0D1117&labelColor=161B22&label=FOLLOWERS&logo=github&logoColor=58A6FF" />
+  <img src="https://img.shields.io/github/stars/KhizarRehman-Professional?style=for-the-badge&color=0D1117&labelColor=161B22&label=STARS&logo=github&logoColor=F0883E" />
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Khizar%20Rehman&fontSize=30&fontColor=fff&animation=twinkling" />
+🧑‍💻 $ whoami
+yaml
+┌────────────────────────────────────────────────────────────┐
+│  $ whoami                                                  │
+│  Khizar Rehman — Software Developer                        │
+│                                                            │
+│  $ uname -a                                                │
+│  AI & DSA Enthusiast | Browser Extension Builder           │
+│                                                            │
+│  $ cat current_focus.txt                                   │
+│  🔥 Word Replacer III — Chrome MV3 browser extension       │
+│                                                            │
+│  $ cat learning.log                                        │
+│  📚 Advanced Data Structures & Algorithms                  │
+│  🤖 AI-driven development                                  │
+│                                                            │
+│  $ cat collaborate_on.txt                                  │
+│  🤝 Open-source C++ / Python projects                      │
+│                                                            │
+│  $ cat need_help_with.txt                                  │
+│  🆘 Advanced UI/UX frontend logic                          │
+│                                                            │
+│  $ cat ask_me_about.txt                                    │
+│  💬 C++, Python, Web Extensions, OOP                       │
+│                                                            │
+│  $ cat side_interests.txt                                  │
+│  🎮 Game modding, binary save-file editing                 │
+│  🤖 Browser automation                                     │
+│                                                            │
+│  $ cat fun_fact.txt                                        │
+│  🎓 Certified university Peer Tutor — PTE Academic score 67 │
+└────────────────────────────────────────────────────────────┘
+🛠️ $ tech_stack.json
+JSON
+{
+  "languages":   ["C++", "C", "Python", "JavaScript"],
+  "web":         ["HTML5", "CSS3"],
+  "data_tools":  ["MySQL", "NumPy", "Pandas", "Matplotlib"],
+  "platforms":   ["Git", "GitHub"]
+}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql,git,github&theme=dark&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+🌐 $ connect.sh
+<p align="center">
+  <a href="https://instagram.com/khizarrehman.exe">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/khizarrehman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khizarrehman.professional@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+📊 $ github_analytics.sh
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&v=1" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+⚠️ Note: If a card shows broken, it's likely recovering from a Vercel-wide incident on Jul 10 that paused free-tier hobby projects.
+Fallback: github-readme-stats.vercel.app (same params, swap the domain).
+📌 $ ls ./featured-projects/
+<p align="center">
+  <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true&v=1" />
+  </a>
+  <a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true&v=1" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true&v=1" />
+  </a>
+  <a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true&v=1" />
+  </a>
+</p>
+📈 $ git log --graph --stat
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=react-dark&hide_border=true&area=true" />
+</p>
+🐍 $ ./contribution_snake.sh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+Not showing yet? Needs a one-time GitHub Action set up in your profile repo — see the note below the README.
+🏆 $ cat trophies.log
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=KhizarRehman-Professional&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+Mirror instance in use since the primary github-profile-trophy.vercel.app has been unreliable.
+💬 $ fortune
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+⭐ $ Star the Repos!
+<p align="center">
+  <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
+    <img src="https://img.shields.io/github/stars/KhizarRehman-Professional/Word-Replacer-III?style=for-the-badge&color=0D1117&labelColor=161B22&logo=github&logoColor=F0883E&label=Word%20Replacer%20III" />
+  </a>
+  <a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
+    <img src="https://img.shields.io/github/stars/KhizarRehman-Professional/KhizarRehman-Portfolio?style=for-the-badge&color=0D1117&labelColor=161B22&logo=github&logoColor=58A6FF&label=Portfolio" />
+  </a>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=fff&animation=twinkling" />
 <div align="center">
-https://instagram.com/khizarrehman.exe
-https://linkedin.com/in/khizarrehman
-mailto:khizarrehman.professional@gmail.com
-</div>
-
-💻 <img src="https://img.shields.io/badge/Tech%20Stack-BC8CFF?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
- JavaScript 
-
- Python 
-
- C++ 
-
- C 
-
- HTML5 
-
- CSS3 
-
- MySQL 
-
- NumPy 
-
- Pandas 
-
- Matplotlib 
-
- GitHub 
-</div>
-
-📊 <img src="https://img.shields.io/badge/GitHub%20Analytics-F0883E?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhizarRehman-Professional&theme=dark&hide_border=true&include_all_commits=true&count_private=true&v=2"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2"/>
-<img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-📌 <img src="https://img.shields.io/badge/Featured%20Projects-39C5CF?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=dark&hide_border=true&v=2"/>
-</a>
-<a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=dark&hide_border=true&v=2"/>
-</a>
-<a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=dark&hide_border=true&v=2"/>
-</a>
-<a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=dark&hide_border=true&v=2"/>
-</a>
-</div>
-
-📈 <img src="https://img.shields.io/badge/Contribution%20Graph-F85149?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=github-compact&hide_border=true&area=true"/>
-</div>
-
-🐍 <img src="https://img.shields.io/badge/Contribution%20Snake-D29922?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</picture>
-<sub>
-</div>
-
-🏆 <img src="https://img.shields.io/badge/Trophy%20Case-DB61A2?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
-
-⚡ <img src="https://img.shields.io/badge/Recent%20Activity-FF6B6B?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-<sub><b> Add the <code> workflow (see setup below) to auto-populate this section.
-</div>
-
-✍️ <img src="https://img.shields.io/badge/Random%20Dev%20Quote-BC8CFF?style=flat-square&logoColor=white" height="26"/>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
-
-<div align="center">
-https://visitcount.itsvg.in
-<img src="https://img.shields.io/badge/Thanks_for_visiting!-161B22?style=for-the-badge&labelColor=0D1117" height="30"/>
+plain
+ _______________________
+< thanks for stopping by >
+ -----------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/                ||----w |
+                ||     ||
 </div>
