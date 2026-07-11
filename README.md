@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Khizar%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Khizar Rehman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Software%20Developer-58A6FF?style=for-the-badge&labelColor=161B22" height="30"/> <img src="https://img.shields.io/badge/AI%20%26%20DSA%20Enthusiast-3FB950?style=for-the-badge&labelColor=161B22" height="30"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🚀_Building_Word_Replacer_III-58A6FF?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/⚙️_Migrating_to_Manifest_V3-3FB950?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/🧠_Learning_Advanced_DSA-BC8CFF?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/🎓_Certified_Peer_Tutor-F0883E?style=flat-square&labelColor=161B22" height="28"/>
 
 </div>
 
@@ -140,17 +147,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=KhizarRehman-Professional&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 
-</div>
-
-<br>
-
-### 🔝 <img src="https://img.shields.io/badge/Top%20Contributed%20Repository-3FB950?style=flat-square&logoColor=white" height="26"/>
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<sub>Mirror instance in use since the primary <code>github-profile-trophy.vercel.app</code> has been unreliable. If this one ever breaks too, swap back to the primary domain — it may have recovered by then.</sub>
 
 </div>
 
@@ -170,7 +169,7 @@
 
 [![](https://komarev.com/ghpvc/?username=KhizarRehman-Professional&icon=github&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/Thanks_for_visiting!-161B22?style=for-the-badge&labelColor=0D1117" height="30"/>
 
 </div>
 
