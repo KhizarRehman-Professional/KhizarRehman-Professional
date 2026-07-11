@@ -57,10 +57,56 @@ fun_fact: "Certified university Peer Tutor | PTE Academic score: 67"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"/>
 
 <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<sub>⚠️ If a card above shows broken, the free stats host is temporarily rate-limited — it self-recovers within minutes. A fallback mirror is <code>github-stats-extended.vercel.app</code> (same params, swap the domain).</sub>
+
+</div>
+
+<br>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true&v=1"/>
+</a>
+<a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true&v=1"/>
+</a>
+
+<a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true&v=1"/>
+</a>
+<a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true&v=1"/>
+</a>
+
+</div>
+
+<br>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<sub>Not showing yet? This one needs a one-time GitHub Action set up in your profile repo — see the note below the README.</sub>
 
 </div>
 
@@ -103,5 +149,3 @@ fun_fact: "Certified university Peer Tutor | PTE Academic score: 67"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
