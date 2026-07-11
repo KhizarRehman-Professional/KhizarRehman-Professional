@@ -1,190 +1,304 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/187503928?v=4" width="130" height="130"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Khizar%20Rehman&fontSize=70&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast&descAlignY=55&descAlign=50" />
 
-# Khizar Rehman
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+Peer+Tutor+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%92%BB;C%2B%2B+%7C+Python+%7C+JavaScript+%F0%9F%94%A5" alt="Typing Animation" />
 
-<img src="https://img.shields.io/badge/Software%20Developer-58A6FF?style=for-the-badge&labelColor=161B22" height="30"/> <img src="https://img.shields.io/badge/AI%20%26%20DSA%20Enthusiast-3FB950?style=for-the-badge&labelColor=161B22" height="30"/>
+<br><br>
 
-<img src="https://img.shields.io/github/followers/KhizarRehman-Professional?style=for-the-badge&color=BC8CFF&labelColor=161B22&label=Followers&logo=github&logoColor=white" height="26"/>
+<!-- Status Badges Row -->
+<img src="https://img.shields.io/badge/Software%20Developer-58A6FF?style=for-the-badge&labelColor=161B22&logo=codepen&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AI%20%26%20DSA%20Enthusiast-3FB950?style=for-the-badge&labelColor=161B22&logo=brain&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Browser%20Extension%20Dev-F0883E?style=for-the-badge&labelColor=161B22&logo=google-chrome&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Contributor-BC8CFF?style=for-the-badge&labelColor=161B22&logo=opensourceinitiative&logoColor=white" height="30"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93&animation=rainbow&font=code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&height=50" alt="Typing SVG" />
-
-<sub>Rainbow typing effect runs on a newer community project — if it ever breaks, swap the domain back to <code>readme-typing-svg.demolab.com</code> (same params minus <code>animation</code>) for the reliable single-color version.</sub>
+<!-- Current Focus Badges -->
+<img src="https://img.shields.io/badge/🚀_Building_Word_Replacer_III-58A6FF?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/⚙️_Migrating_to_Manifest_V3-3FB950?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/🧠_Learning_Advanced_DSA-BC8CFF?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/🎓_Certified_Peer_Tutor-F0883E?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://img.shields.io/badge/🔥_Open_to_Collaborate-DB61A2?style=flat-square&labelColor=161B22" height="28"/>
 
 </div>
 
 <br>
 
-## 🧭 About Me
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="40">🔭</td>
+<td width="40" align="center">🔭</td>
 <td><b>Currently working on</b></td>
-<td>Word Replacer III — Custom Browser Extension (MV3 migration)</td>
+<td><a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">Word Replacer III</a> — Custom Browser Extension (MV3 migration)</td>
 </tr>
 <tr>
-<td>🌱</td>
+<td align="center">🌱</td>
 <td><b>Currently learning</b></td>
-<td>Advanced Data Structures &amp; Algorithms · AI-driven Development</td>
+<td>Advanced Data Structures & Algorithms · AI-driven Development · System Design</td>
 </tr>
 <tr>
-<td>👯</td>
+<td align="center">👯</td>
 <td><b>Looking to collaborate on</b></td>
-<td>Open-source C++ / Python projects</td>
+<td>Open-source C++ / Python projects · Browser Extensions · AI Tools</td>
 </tr>
 <tr>
-<td>🤝</td>
+<td align="center">🤝</td>
 <td><b>Looking for help with</b></td>
-<td>Advanced UI/UX frontend logic</td>
+<td>Advanced UI/UX frontend logic · Chrome Extension APIs · Performance Optimization</td>
 </tr>
 <tr>
-<td>💬</td>
+<td align="center">💬</td>
 <td><b>Ask me about</b></td>
-<td>C++ · Python · Web Extensions · OOP</td>
+<td>C++ · Python · Web Extensions · OOP · Data Structures · Algorithms</td>
 </tr>
 <tr>
-<td>⚡</td>
+<td align="center">⚡</td>
 <td><b>Fun fact</b></td>
-<td>Certified university Peer Tutor, PTE Academic score: 67</td>
+<td>Certified university Peer Tutor, PTE Academic score: 67 · I debug code faster than I debug my life 😄</td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td><b>Goal for 2026</b></td>
+<td>Contribute to 10+ open-source projects & ship 3 major side projects</td>
 </tr>
 </table>
 
 <br>
 
-## 🌐 Connect With Me
+<!-- Connect Section -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/khizarrehman.exe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khizarrehman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khizarrehman.professional@gmail.com)
+<a href="https://instagram.com/khizarrehman.exe" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32"/>
+</a>
+<a href="https://linkedin.com/in/khizarrehman" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+</a>
+<a href="mailto:khizarrehman.professional@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+</a>
+<a href="https://github.com/KhizarRehman-Professional" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+</a>
 
 </div>
 
 <br>
 
-## 💻 Tech Stack
+<!-- Tech Stack Section -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,markdown&theme=dark" />
+</div>
+
+<h3 align="center">Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=dark" />
+</div>
+
+<h3 align="center">Tools & Platforms</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,sqlite,postman,vercel&theme=dark" />
+</div>
+
+<h3 align="center">Data Science & AI</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32"/>
+</div>
+
+<br>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- GitHub Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KhizarRehman-Professional&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Khizar's%20GitHub%20Stats" />
+
+<!-- Top Languages Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" />
+
+<br><br>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=tokyonight&hide_border=true&fire=FF6B6B&currStreakNum=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- GitHub Metrics (Comprehensive) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhizarRehman&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+
+<br>
+
+<sub>⚠️ If a card above shows broken, it's likely still recovering from a Vercel-wide incident. Check back in a bit. Fallback: swap <code>github-stats-extended.vercel.app</code> with <code>github-readme-stats.vercel.app</code>.</sub>
 
 </div>
 
 <br>
 
-## 📊 GitHub Analytics
+<!-- Contribution Graph -->
+<h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=KhizarRehman-Professional&theme=dark&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"/>
-
-<img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-<sub>⚠️ If a card above shows broken, it's likely still recovering from a Vercel-wide incident on Jul 10 that mistakenly paused a batch of free-tier hobby projects (these cards run on that tier). It's outside your control — check back in a bit. Fallback mirror: <code>github-readme-stats.vercel.app</code> (same params, swap the domain).</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 <br>
 
-## 📌 Featured Projects
+<!-- 3D Contribution Calendar -->
+<h2 align="center">🌆 3D Contribution Skyline</h2>
+
+<div align="center">
+
+<!-- Light/Dark mode support for 3D contrib -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" />
+</picture>
+
+<br>
+
+<sub>🛠️ <b>Setup 3D Skyline:</b> Add <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> GitHub Action to auto-generate this.</sub>
+
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</picture>
+
+<br>
+
+<sub>Not showing? Make sure the GitHub Action is set up in your profile repo — see the setup instructions at the bottom of this README.</sub>
+
+</div>
+
+<br>
+
+<!-- Trophy Section -->
+<h2 align="center">🏆 GitHub Trophy Case</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+
+<br>
+
+<sub>Mirror instance in use. If broken, swap back to <code>github-profile-trophy.vercel.app</code>.</sub>
+
+</div>
+
+<br>
+
+<!-- Featured Projects -->
+<h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
 
 <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=dark&hide_border=true&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=dark&hide_border=true&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
+
+<br>
 
 <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=dark&hide_border=true&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=dark&hide_border=true&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 
 </div>
 
 <br>
 
-## 📈 Contribution Graph
+<!-- Recent Activity -->
+<h2 align="center">⚡ Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+<!-- This section can be auto-generated using github-readme-activity-action -->
+<div align="center">
+
+*Auto-generated activity feed coming soon...* <br>
+<sub>💡 <b>Tip:</b> Use <a href="https://github.com/Readme-Workflows/recent-activity">recent-activity</a> GitHub Action to populate this automatically.</sub>
+
+</div>
+<!--END_SECTION:activity-->
+
+<br>
+
+<!-- Dev Quote -->
+<h2 align="center">✍️ Random Dev Quote</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" />
+
+<br>
+
+<sub>Refresh the page for a new quote!</sub>
 
 </div>
 
 <br>
 
-## 🐍 Contribution Snake
-
+<!-- Profile Views & Footer -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=KhizarRehman-Professional&icon=github&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" />
+</a>
 
-<sub>Not showing yet? This one needs a one-time GitHub Action set up in your profile repo — see the note below the README.</sub>
-
-</div>
-
-<br>
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=KhizarRehman-Professional&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-
-<sub>Mirror instance in use since the primary <code>github-profile-trophy.vercel.app</code> has been unreliable. If this one ever breaks too, swap back to the primary domain — it may have recovered by then.</sub>
-
-</div>
-
-<br>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=KhizarRehman-Professional&icon=github&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+<br><br>
 
 <img src="https://img.shields.io/badge/Thanks_for_visiting!-161B22?style=for-the-badge&labelColor=0D1117" height="30"/>
+<img src="https://img.shields.io/badge/⭐_Star_Some_Repos!-3FB950?style=for-the-badge&labelColor=0D1117" height="30"/>
+<img src="https://img.shields.io/badge/🍴_Fork_If_You_Like!-58A6FF?style=for-the-badge&labelColor=0D1117" height="30"/>
+
+<br><br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!--
-SNAKE ANIMATION SETUP (one-time, ~2 minutes):
-1. In your KhizarRehman-Professional repo, create the file:
-   .github/workflows/snake.yml
-   using the contents provided alongside this README.
-2. Commit it to your main branch and it will run automatically once a day
-   (and once immediately if you trigger it manually from the Actions tab).
-3. It generates the animated grid on an "output" branch, which is what
-   the <img> above points to. No further action needed after that.
--->
+<!-- Setup Instructions -->
+<details>
+<summary><h3>🛠️ Setup Instructions (Click to Expand)</h3></summary>
+
+#### 1. Snake Animation Setup (one-time, ~2 minutes)
+
+In your `KhizarRehman-Professional` repo, create the file:
