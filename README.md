@@ -1,21 +1,18 @@
-&lt;!-- Header Banner --&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Khizar%20Rehman&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/&gt;
 &lt;/p&gt;
 
-&lt;!-- Typing Animation --&gt;
 &lt;p align="center"&gt;
   &lt;a href="https://github.com/KhizarRehman-Professional"&gt;
     &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Python+Enthusiast;Web+Extension+Builder;Peer+Tutor+%7C+Open+Source+Contributor;Building+Word+Replacer+III" alt="Typing SVG" /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;!-- Snake Animation --&gt;
 &lt;p align="center"&gt;
   &lt;picture&gt;
-    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" /&gt;
-    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake.svg" /&gt;
-    &lt;img alt="github-snake" src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake.svg" /&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-snake-dark.svg" /&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-snake.svg" /&gt;
+    &lt;img alt="github-snake" src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-snake.svg" /&gt;
   &lt;/picture&gt;
 &lt;/p&gt;
 
@@ -35,7 +32,6 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-&lt;!-- Activity Graph --&gt;
 ## 📈 Contribution Graph
 &lt;p align="center"&gt;
   &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" /&gt;
@@ -67,7 +63,6 @@
   &lt;img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /&gt;
 &lt;/p&gt;
 
-&lt;!-- Footer Banner --&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="footer"/&gt;
 &lt;/p&gt;
