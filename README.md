@@ -45,6 +45,8 @@ Artificial Intelligence student combining OOP logic with real-world software dev
 <h4 align="center">🛠️ Tools & Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
