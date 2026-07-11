@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KhizarRehman-Professional">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dd5f56&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Khizar%20Rehman!" alt="Hello! I&#39;m Khizar Rehman!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Khizar%20Rehman!" alt="Hello! I&#39;m Khizar Rehman!" />
   </a>
 </p>
 
