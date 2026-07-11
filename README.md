@@ -6,16 +6,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🚀_Building_Word_Replacer_III-58A6FF?style=flat-square&labelColor=161B22" height="28"/>
-<img src="https://img.shields.io/badge/⚙️_Migrating_to_Manifest_V3-3FB950?style=flat-square&labelColor=161B22" height="28"/>
-<img src="https://img.shields.io/badge/🧠_Learning_Advanced_DSA-BC8CFF?style=flat-square&labelColor=161B22" height="28"/>
-<img src="https://img.shields.io/badge/🎓_Certified_Peer_Tutor-F0883E?style=flat-square&labelColor=161B22" height="28"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### 🧭 <img src="https://img.shields.io/badge/About%20Me-58A6FF?style=flat-square&logoColor=white" height="26"/>
+## 🧭 About Me
 
 <table>
 <tr>
@@ -52,7 +49,7 @@
 
 <br>
 
-### 🌐 <img src="https://img.shields.io/badge/Connect%20With%20Me-3FB950?style=flat-square&logoColor=white" height="26"/>
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -64,7 +61,7 @@
 
 <br>
 
-### 💻 <img src="https://img.shields.io/badge/Tech%20Stack-BC8CFF?style=flat-square&logoColor=white" height="26"/>
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -84,7 +81,7 @@
 
 <br>
 
-### 📊 <img src="https://img.shields.io/badge/GitHub%20Analytics-F0883E?style=flat-square&logoColor=white" height="26"/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -99,7 +96,7 @@
 
 <br>
 
-### 📌 <img src="https://img.shields.io/badge/Featured%20Projects-39C5CF?style=flat-square&logoColor=white" height="26"/>
+## 📌 Featured Projects
 
 <div align="center">
 
@@ -121,7 +118,7 @@
 
 <br>
 
-### 📈 <img src="https://img.shields.io/badge/Contribution%20Graph-F85149?style=flat-square&logoColor=white" height="26"/>
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -131,7 +128,7 @@
 
 <br>
 
-### 🐍 <img src="https://img.shields.io/badge/Contribution%20Snake-D29922?style=flat-square&logoColor=white" height="26"/>
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -143,7 +140,7 @@
 
 <br>
 
-### 🏆 <img src="https://img.shields.io/badge/Trophy%20Case-DB61A2?style=flat-square&logoColor=white" height="26"/>
+## 🏆 Trophy Case
 
 <div align="center">
 
@@ -155,7 +152,7 @@
 
 <br>
 
-### ✍️ <img src="https://img.shields.io/badge/Random%20Dev%20Quote-BC8CFF?style=flat-square&logoColor=white" height="26"/>
+## ✍️ Random Dev Quote
 
 <div align="center">
 
