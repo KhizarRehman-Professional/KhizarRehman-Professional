@@ -1,12 +1,18 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/187503928?v=4" width="130" height="130"/>
+
 # Khizar Rehman
 
 <img src="https://img.shields.io/badge/Software%20Developer-58A6FF?style=for-the-badge&labelColor=161B22" height="30"/> <img src="https://img.shields.io/badge/AI%20%26%20DSA%20Enthusiast-3FB950?style=for-the-badge&labelColor=161B22" height="30"/>
 
+<img src="https://img.shields.io/github/followers/KhizarRehman-Professional?style=for-the-badge&color=BC8CFF&labelColor=161B22&label=Followers&logo=github&logoColor=white" height="26"/>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93&animation=rainbow&font=code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&height=50" alt="Typing SVG" />
+
+<sub>Rainbow typing effect runs on a newer community project — if it ever breaks, swap the domain back to <code>readme-typing-svg.demolab.com</code> (same params minus <code>animation</code>) for the reliable single-color version.</sub>
 
 </div>
 
