@@ -71,9 +71,8 @@ Artificial Intelligence student combining OOP logic with real-world software dev
   <img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 ## 🚀 Featured Project
-
-<a href="https://github.com/KhizarRehman-Professional/word-replacer-iii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=word-replacer-iii&theme=dark" />
+<a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Extension-SourceCode&theme=dark" />
 </a>
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
