@@ -10,14 +10,38 @@
 
 ## 🧭 About Me
 
-```yaml
-current_project: "Word Replacer III — Custom Browser Extension (MV3 migration)"
-currently_learning: ["Advanced Data Structures & Algorithms", "AI-driven Development"]
-looking_to_collaborate: "Open-source C++ / Python projects"
-looking_for_help: "Advanced UI/UX frontend logic"
-ask_me_about: ["C++", "Python", "Web Extensions", "OOP"]
-fun_fact: "Certified university Peer Tutor | PTE Academic score: 67"
-```
+<table>
+<tr>
+<td width="40">🔭</td>
+<td><b>Currently working on</b></td>
+<td>Word Replacer III — Custom Browser Extension (MV3 migration)</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><b>Currently learning</b></td>
+<td>Advanced Data Structures & Algorithms · AI-driven Development</td>
+</tr>
+<tr>
+<td>👯</td>
+<td><b>Looking to collaborate on</b></td>
+<td>Open-source C++ / Python projects</td>
+</tr>
+<tr>
+<td>🤝</td>
+<td><b>Looking for help with</b></td>
+<td>Advanced UI/UX frontend logic</td>
+</tr>
+<tr>
+<td>💬</td>
+<td><b>Ask me about</b></td>
+<td>C++ · Python · Web Extensions · OOP</td>
+</tr>
+<tr>
+<td>⚡</td>
+<td><b>Fun fact</b></td>
+<td>Certified university Peer Tutor, PTE Academic score: 67</td>
+</tr>
+</table>
 
 <br>
 
@@ -57,12 +81,12 @@ fun_fact: "Certified university Peer Tutor | PTE Academic score: 67"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"/>
 
 <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-<sub>⚠️ If a card above shows broken, the free stats host is temporarily rate-limited — it self-recovers within minutes. A fallback mirror is <code>github-stats-extended.vercel.app</code> (same params, swap the domain).</sub>
+<sub>⚠️ If a card above shows broken, the free stats host is temporarily rate-limited — it self-recovers within minutes. A fallback mirror is <code>github-readme-stats.vercel.app</code> (same params, swap the domain).</sub>
 
 </div>
 
@@ -73,17 +97,17 @@ fun_fact: "Certified university Peer Tutor | PTE Academic score: 67"
 <div align="center">
 
 <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true&v=1"/>
 </a>
 <a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true&v=1"/>
 </a>
 
 <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true&v=1"/>
 </a>
 <a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true&v=1"/>
 </a>
 
 </div>
@@ -149,3 +173,16 @@ fun_fact: "Certified university Peer Tutor | PTE Academic score: 67"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
+SNAKE ANIMATION SETUP (one-time, ~2 minutes):
+1. In your KhizarRehman-Professional repo, create the file:
+   .github/workflows/snake.yml
+   using the contents provided alongside this README.
+2. Commit it to your main branch and it will run automatically once a day
+   (and once immediately if you trigger it manually from the Actions tab).
+3. It generates the animated grid on an "output" branch, which is what
+   the <img> above points to. No further action needed after that.
+-->
