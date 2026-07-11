@@ -256,12 +256,5 @@ jobs:
           publish_branch: profile-3d-contrib
           force_orphan: true
 </pre>
-<h4>3. After Pushing Workflows</h4>
-<ol>
-<li>Go to the <b>Actions</b> tab in your repo</li>
-<li>Click <b>"Generate Snake"</b> → <b>Run workflow</b></li>
-<li>Click <b>"GitHub-Profile-3D-Contrib"</b> → <b>Run workflow</b></li>
-<li>Wait ~1 minute, then refresh your profile</li>
-</ol>
 </details>
 <p align="center">Proudly created by Khizar Rehman</p>
