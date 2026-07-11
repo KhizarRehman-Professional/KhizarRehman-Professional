@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khizar%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Khizar%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F7DF1E&center=true&vCenter=true&width=600&lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Word+Replacer+III+%F0%9F%9A%80;Migrating+to+Manifest+V3+%E2%9A%99%EF%B8%8F;Learning+Advanced+DSA+%F0%9F%A7%A0;Certified+University+Peer+Tutor+%F0%9F%8E%93" alt="Typing SVG" />
 
 </div>
 
@@ -81,12 +81,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KhizarRehman-Professional&theme=dark&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KhizarRehman-Professional&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"/>
 
-<img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
-<sub>⚠️ If a card above shows broken, the free stats host is temporarily rate-limited — it self-recovers within minutes. A fallback mirror is <code>github-readme-stats.vercel.app</code> (same params, swap the domain).</sub>
+<sub>⚠️ If a card above shows broken, it's likely still recovering from a Vercel-wide incident on Jul 10 that mistakenly paused a batch of free-tier hobby projects (these cards run on that tier). It's outside your control — check back in a bit. Fallback mirror: <code>github-readme-stats.vercel.app</code> (same params, swap the domain).</sub>
 
 </div>
 
@@ -97,17 +97,17 @@
 <div align="center">
 
 <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III&theme=dark&hide_border=true&v=1"/>
 </a>
 <a href="https://github.com/KhizarRehman-Professional/KhizarRehman-Portfolio">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=KhizarRehman-Portfolio&theme=dark&hide_border=true&v=1"/>
 </a>
 
 <a href="https://github.com/KhizarRehman-Professional/Word-Replacer-III-Privacy">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=Word-Replacer-III-Privacy&theme=dark&hide_border=true&v=1"/>
 </a>
 <a href="https://github.com/KhizarRehman-Professional/ProgrammingFundamentals-Tasks">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=radical&hide_border=true&v=1"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KhizarRehman-Professional&repo=ProgrammingFundamentals-Tasks&theme=dark&hide_border=true&v=1"/>
 </a>
 
 </div>
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarRehman-Professional&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 
 </div>
 
@@ -150,7 +150,7 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 </div>
 
@@ -160,7 +160,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
@@ -170,7 +170,7 @@
 
 [![](https://komarev.com/ghpvc/?username=KhizarRehman-Professional&icon=github&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%"/>
 
 </div>
 
