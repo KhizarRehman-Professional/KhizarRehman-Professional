@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=A%20passionate%20AI%20Student%20and%20Developer%20from%20Pakistan.;C%2B%2B%20%26%20Python%20Developer%20%7C%20Certified%20Peer%20Tutor%20%7C%20Creator%20of%20Word%20Replacer%20III" alt="Typing headlines" />
 </p>
 <h2 align="center">💫 About Me</h2>
-Artificial Intelligence student combining OOP logic with real-world software development. I build interactive tools, maintain custom web extensions, and enjoy solving complex backend challenges.
+Artificial Intelligence student combining OOP logic with real-world software development. I build interactive tools, maintain custom web extensions, and enjoy solving complex backend challenges.<br><br>
 
 🔭 &nbsp;I'm currently working on **Word Replacer III - Browser Extension**  
 🌱 &nbsp;I'm currently learning **Advanced Data Structures and Algorithms (DSA)**  
@@ -16,13 +16,13 @@ Artificial Intelligence student combining OOP logic with real-world software dev
 🤔 &nbsp;I'm looking for help with **Advanced Browser Extension Architecture**  
 💬 &nbsp;Ask me about **C++, Python, OOP, and Frontend Logic**  
 ⚡ &nbsp;Fun fact: **I am a certified university Peer Tutor for C++ and hold a B2+ English proficiency score (PTE Score - 67)!**
-<h2 align="center">🌐 Socials</h2>
+<h2>🌐 Socials</h2>
 <p align="center">
   <a href="https://instagram.com/khizarrehman.exe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://linkedin.com/in/khizarrehman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:khizarrehman.professional@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 <h4 align="center">🖥️ Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -46,13 +46,13 @@ Artificial Intelligence student combining OOP logic with real-world software dev
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=KhizarRehman-Professional&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://streak-stats.demolab.com/?user=KhizarRehman-Professional&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhizarRehman-Professional&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3>🐍 Contribution Snake</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake-dark.svg" />
@@ -60,15 +60,15 @@ Artificial Intelligence student combining OOP logic with real-world software dev
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhizarRehman-Professional/KhizarRehman-Professional/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2>🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KhizarRehman-Professional&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3>✍️ Random Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </p>
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3>🔝 Top Contributed Repo</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KhizarRehman-Professional&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
