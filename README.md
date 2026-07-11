@@ -182,4 +182,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
-<p align="center">Proudly created by Khizar Rehman</p>
